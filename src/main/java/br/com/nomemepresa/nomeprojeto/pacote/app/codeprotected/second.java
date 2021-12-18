@@ -1,4 +1,4 @@
-package codeprotected;
+package br.com.nomemepresa.nomeprojeto.pacote.app.codeprotected;
 
 public class second {
 
